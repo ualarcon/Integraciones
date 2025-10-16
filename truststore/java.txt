@@ -1,0 +1,1 @@
+java -cp ".:HikariCP-5.1.0.jar:jdbc-4.50.11.jar:slf4j-api-2.0.13.jar:slf4j-simple-2.0.13.jar" TestConexionSSL
